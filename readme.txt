@@ -1,2 +1,2 @@
-update xxxx
+update xxxxx
 STRY0010071 DFCT0010005

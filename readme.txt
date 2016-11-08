@@ -1,2 +1,2 @@
-update asdfasdfasdfasdf
-STRY0010071 DFCT0010005
+Here’s an update for the demo
+STRY0010071
